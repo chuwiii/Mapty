@@ -1,0 +1,22 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "l.js",
+  "scripts": {
+    "test": "vitest --run --reporter verbose --globals"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuwiii/Mapty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuwiii/Mapty/issues"
+  },
+  "homepage": "https://github.com/chuwiii/Mapty#readme",
+  "devDependencies": {
+    "vitest": "^0.27.0"
+  }
+}
